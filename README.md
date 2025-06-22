@@ -20,7 +20,7 @@
 ## 🌐 Portfolio:
 
 - 🔧 [warsztatykowalskie.pl](https://warsztatykowalskie.pl) – commercial website built for a client  
-- 🔨 [kuzniabillert.pl](https://mpolakcdv.github.io/) – another client project (currently offline — we're working on improvements and adding an online store)  
+- 🔨 [kuzniabillert.pl](https://maxpolak04.github.io/) – another client project (currently offline — we're working on improvements and adding an online store)  
   👉 [Project repository](https://github.com/MaxPolak04/maxpolak04.github.io)
 - 📋 [TaskManager](https://github.com/MaxPolak04/flask_taskmanager_crud) – a Python Flask CRUD application with custom-built protections against DoS, brute force attacks, XSS, and clickjacking
 
